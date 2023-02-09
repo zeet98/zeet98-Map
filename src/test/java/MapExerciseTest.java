@@ -6,10 +6,10 @@ import org.junit.Test;
 import java.util.Map;
 
 public class MapExerciseTest {
-    static MapExercise me;
+    static Lab me;
     @BeforeClass
     public static void setUp(){
-        me = new MapExercise();
+        me = new Lab();
     }
 
     /**
